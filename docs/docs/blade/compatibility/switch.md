@@ -26,7 +26,17 @@ PoE enabled switch & Injectors which have been used with the Compute Blade
 | :---------- | :------------------ | --------- |
 | TL-SG105MPE | [TL-SG105MPE](https://www.tp-link.com/us/home-networking/5-port-switch/tl-sg105mpe/) | slipstickn(On Discord) |
 
+## Netgear
+
+| Product     | Model Number        | Tested By |
+| :---------- | :------------------ | --------- |
+| GS308LP | [GS308LP](https://www.netgear.com/business/wired/switches/unmanaged/gs308lp/)| [moki38](https://github.com/Moki38) |
+
 ## Juniper
+
+| Product       | Model Number       | Tested By |
+| :------------ |:------------------ | --------- |
+| EX2200-48P-4G | [EX2200-48P-4G](https://www.juniper.net/documentation/product/us/en/ex2200/) | [mookie-](https://github.com/mookie-) |## Juniper
 
 | Product       | Model Number       | Tested By |
 | :------------ |:------------------ | --------- |
